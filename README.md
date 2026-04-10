@@ -86,3 +86,12 @@ node <script> "your prompt" --token YOUR_TOKEN
 
 Returns a direct image URL.
 
+## Example Output
+
+```bash
+node magazinecovergenerator.js "high-fashion editorial magazine cover, bold masthead typography, dramatic lighting, professional photography, glossy finish, cover headlines, barcode, issue date, Vogue TIME GQ style layout, mixed-media collage elements, editorial composition"
+```
+
+![Example output](https://oss.talesofai.cn/picture/72f8a1d8-436c-4dd4-9182-62822daa58c9.webp)
+
+> Prompt: *"high-fashion editorial magazine cover, bold masthead typography, dramatic lighting, professional photography, glossy finish, cover headlines, barcode, issue date, Vogue TIME GQ style layout, mixed-media collage elements, editorial composition"*
