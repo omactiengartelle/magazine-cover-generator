@@ -41,7 +41,7 @@ Options:
   -h, --help       show this help
 
 Example:
-  node magazinecovergenerator.js "astronaut on vogue cover" --token "$NETA_TOKEN"
+  node magazinecovergenerator.js "astronaut on vogue cover" --token YOUR_TOKEN
 `);
 }
 

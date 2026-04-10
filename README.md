@@ -27,31 +27,31 @@ node magazinecovergenerator.js "your prompt here" --token YOUR_TOKEN
 Generate a fashion cover:
 
 ```bash
-node magazinecovergenerator.js "confident woman in red blazer, city skyline background" --token "$NETA_TOKEN"
+node magazinecovergenerator.js "confident woman in red blazer, city skyline background" --token YOUR_TOKEN
 ```
 
 Generate a TIME-style person of the year cover:
 
 ```bash
-node magazinecovergenerator.js "tech visionary portrait, black and white, bold red border" --token "$NETA_TOKEN"
+node magazinecovergenerator.js "tech visionary portrait, black and white, bold red border" --token YOUR_TOKEN
 ```
 
 Generate a pet magazine cover:
 
 ```bash
-node magazinecovergenerator.js "golden retriever wearing sunglasses, summer issue" --token "$NETA_TOKEN"
+node magazinecovergenerator.js "golden retriever wearing sunglasses, summer issue" --token YOUR_TOKEN
 ```
 
 Landscape cover layout:
 
 ```bash
-node magazinecovergenerator.js "surreal collage, mixed media" --size landscape --token "$NETA_TOKEN"
+node magazinecovergenerator.js "surreal collage, mixed media" --size landscape --token YOUR_TOKEN
 ```
 
 Use a reference image for style inheritance:
 
 ```bash
-node magazinecovergenerator.js "editorial portrait" --ref <picture_uuid> --token "$NETA_TOKEN"
+node magazinecovergenerator.js "editorial portrait" --ref <picture_uuid> --token YOUR_TOKEN
 ```
 
 ## Options
